@@ -42,6 +42,8 @@ function App() {
         setMovie(singleMovie);
 
         setReviews(singleMovie.reviews);
+        console.log(reviews)
+        console.log(movieId);
         
 
     } 
